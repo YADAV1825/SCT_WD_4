@@ -1,4 +1,4 @@
-<img width="824" height="747" alt="image" src="https://github.com/user-attachments/assets/f62334f8-a45b-4497-b23e-a48c727aae6d" /># SCT_WD_4
+# SCT_WD_4
 
 # 🚀 Neon To-Do Web App
 
